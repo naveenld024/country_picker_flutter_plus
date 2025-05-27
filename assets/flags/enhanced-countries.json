@@ -3,1494 +3,2739 @@
     "name": "Afghanistan",
     "code": "AF",
     "phoneCode": "+93",
-    "flagEmoji": "🇦🇫"
+    "flagEmoji": "🇦🇫",
+    "region": "Asia",
+    "nativeName": "افغانستان",
+    "capital": "Kabul",
+    "currency": "AFN",
+    "currencySymbol": "؋"
   },
   {
     "name": "Aland Islands",
     "code": "AX",
     "phoneCode": "+358",
-    "flagEmoji": "🇦🇽"
+    "flagEmoji": "🇦🇽",
+    "region": "Europe",
+    "nativeName": "Åland",
+    "capital": "Mariehamn",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Albania",
     "code": "AL",
     "phoneCode": "+355",
-    "flagEmoji": "🇦🇱"
+    "flagEmoji": "🇦🇱",
+    "region": "Europe",
+    "nativeName": "Shqipëria",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "currencySymbol": "L"
   },
   {
     "name": "Algeria",
     "code": "DZ",
     "phoneCode": "+213",
-    "flagEmoji": "🇩🇿"
+    "flagEmoji": "🇩🇿",
+    "region": "Africa",
+    "nativeName": "الجزائر",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currencySymbol": "د.ج"
   },
   {
     "name": "American Samoa",
     "code": "AS",
     "phoneCode": "+1684",
-    "flagEmoji": "🇦🇸"
+    "flagEmoji": "🇦🇸",
+    "region": "Oceania",
+    "nativeName": "American Samoa",
+    "capital": "Pago Pago",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Andorra",
     "code": "AD",
     "phoneCode": "+376",
-    "flagEmoji": "🇦🇩"
+    "flagEmoji": "🇦🇩",
+    "region": "Europe",
+    "nativeName": "Andorra",
+    "capital": "Andorra la Vella",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Angola",
     "code": "AO",
     "phoneCode": "+244",
-    "flagEmoji": "🇦🇴"
+    "flagEmoji": "🇦🇴",
+    "region": "Africa",
+    "nativeName": "Angola",
+    "capital": "Luanda",
+    "currency": "AOA",
+    "currencySymbol": "Kz"
   },
   {
     "name": "Anguilla",
     "code": "AI",
     "phoneCode": "+1264",
-    "flagEmoji": "🇦🇮"
+    "flagEmoji": "🇦🇮",
+    "region": "North America",
+    "nativeName": "Anguilla",
+    "capital": "The Valley",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Antarctica",
     "code": "AQ",
     "phoneCode": "+672",
-    "flagEmoji": "🇦🇶"
+    "flagEmoji": "🇦🇶",
+    "region": "Antarctica",
+    "nativeName": "Antarctica",
+    "capital": null,
+    "currency": null,
+    "currencySymbol": null
   },
   {
     "name": "Antigua and Barbuda",
     "code": "AG",
     "phoneCode": "+1268",
-    "flagEmoji": "🇦🇬"
+    "flagEmoji": "🇦🇬",
+    "region": "North America",
+    "nativeName": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Argentina",
     "code": "AR",
     "phoneCode": "+54",
-    "flagEmoji": "🇦🇷"
+    "flagEmoji": "🇦🇷",
+    "region": "South America",
+    "nativeName": "Argentina",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currencySymbol": "$"
   },
   {
     "name": "Armenia",
     "code": "AM",
     "phoneCode": "+374",
-    "flagEmoji": "🇦🇲"
+    "flagEmoji": "🇦🇲",
+    "region": "Asia",
+    "nativeName": "Հայաստան",
+    "capital": "Yerevan",
+    "currency": "AMD",
+    "currencySymbol": "֏"
   },
   {
     "name": "Aruba",
     "code": "AW",
     "phoneCode": "+297",
-    "flagEmoji": "🇦🇼"
+    "flagEmoji": "🇦🇼",
+    "region": "North America",
+    "nativeName": "Aruba",
+    "capital": "Oranjestad",
+    "currency": "AWG",
+    "currencySymbol": "ƒ"
   },
   {
     "name": "Australia",
     "code": "AU",
     "phoneCode": "+61",
-    "flagEmoji": "🇦🇺"
+    "flagEmoji": "🇦🇺",
+    "region": "Oceania",
+    "nativeName": "Australia",
+    "capital": "Canberra",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Austria",
     "code": "AT",
     "phoneCode": "+43",
-    "flagEmoji": "🇦🇹"
+    "flagEmoji": "🇦🇹",
+    "region": "Europe",
+    "nativeName": "Österreich",
+    "capital": "Vienna",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Azerbaijan",
     "code": "AZ",
     "phoneCode": "+994",
-    "flagEmoji": "🇦🇿"
+    "flagEmoji": "🇦🇿",
+    "region": "Asia",
+    "nativeName": "Azərbaycan",
+    "capital": "Baku",
+    "currency": "AZN",
+    "currencySymbol": "₼"
   },
   {
     "name": "Bahamas",
     "code": "BS",
     "phoneCode": "+1242",
-    "flagEmoji": "🇧🇸"
+    "flagEmoji": "🇧🇸",
+    "region": "North America",
+    "nativeName": "Bahamas",
+    "capital": "Nassau",
+    "currency": "BSD",
+    "currencySymbol": "$"
   },
   {
     "name": "Bahrain",
     "code": "BH",
     "phoneCode": "+973",
-    "flagEmoji": "🇧🇭"
+    "flagEmoji": "🇧🇭",
+    "region": "Asia",
+    "nativeName": "‏البحرين",
+    "capital": "Manama",
+    "currency": "BHD",
+    "currencySymbol": ".د.ب"
   },
   {
     "name": "Bangladesh",
     "code": "BD",
     "phoneCode": "+880",
-    "flagEmoji": "🇧🇩"
+    "flagEmoji": "🇧🇩",
+    "region": "Asia",
+    "nativeName": "Bangladesh",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currencySymbol": "৳"
   },
   {
     "name": "Barbados",
     "code": "BB",
     "phoneCode": "+1246",
-    "flagEmoji": "🇧🇧"
+    "flagEmoji": "🇧🇧",
+    "region": "North America",
+    "nativeName": "Barbados",
+    "capital": "Bridgetown",
+    "currency": "BBD",
+    "currencySymbol": "$"
   },
   {
     "name": "Belarus",
     "code": "BY",
     "phoneCode": "+375",
-    "flagEmoji": "🇧🇾"
+    "flagEmoji": "🇧🇾",
+    "region": "Europe",
+    "nativeName": "Белару́сь",
+    "capital": "Minsk",
+    "currency": "BYN",
+    "currencySymbol": "Br"
   },
   {
     "name": "Belgium",
     "code": "BE",
     "phoneCode": "+32",
-    "flagEmoji": "🇧🇪"
+    "flagEmoji": "🇧🇪",
+    "region": "Europe",
+    "nativeName": "België / Belgique / Belgien",
+    "capital": "Brussels",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Belize",
     "code": "BZ",
     "phoneCode": "+501",
-    "flagEmoji": "🇧🇿"
+    "flagEmoji": "🇧🇿",
+    "region": "North America",
+    "nativeName": "Belize",
+    "capital": "Belmopan",
+    "currency": "BZD",
+    "currencySymbol": "$"
   },
   {
     "name": "Benin",
     "code": "BJ",
     "phoneCode": "+229",
-    "flagEmoji": "🇧🇯"
+    "flagEmoji": "🇧🇯",
+    "region": "Africa",
+    "nativeName": "Bénin",
+    "capital": "Porto-Novo",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Bermuda",
     "code": "BM",
     "phoneCode": "+1441",
-    "flagEmoji": "🇧🇲"
+    "flagEmoji": "🇧🇲",
+    "region": "North America",
+    "nativeName": "Bermuda",
+    "capital": "Hamilton",
+    "currency": "BMD",
+    "currencySymbol": "$"
   },
   {
     "name": "Bhutan",
     "code": "BT",
     "phoneCode": "+975",
-    "flagEmoji": "🇧🇹"
+    "flagEmoji": "🇧🇹",
+    "region": "Asia",
+    "nativeName": "འབྲུག་ཡུལ་",
+    "capital": "Thimphu",
+    "currency": "BTN",
+    "currencySymbol": "Nu."
   },
   {
     "name": "Bolivia, Plurinational State of",
     "code": "BO",
     "phoneCode": "+591",
-    "flagEmoji": "🇧🇴"
+    "flagEmoji": "🇧🇴",
+    "region": "South America",
+    "nativeName": "Bolivia",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "currencySymbol": "Bs."
   },
   {
     "name": "Bosnia and Herzegovina",
     "code": "BA",
     "phoneCode": "+387",
-    "flagEmoji": "🇧🇦"
+    "flagEmoji": "🇧🇦",
+    "region": "Europe",
+    "nativeName": "Bosna i Hercegovina",
+    "capital": "Sarajevo",
+    "currency": "BAM",
+    "currencySymbol": "KM"
   },
   {
     "name": "Botswana",
     "code": "BW",
     "phoneCode": "+267",
-    "flagEmoji": "🇧🇼"
+    "flagEmoji": "🇧🇼",
+    "region": "Africa",
+    "nativeName": "Botswana",
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "currencySymbol": "P"
   },
   {
     "name": "Brazil",
     "code": "BR",
     "phoneCode": "+55",
-    "flagEmoji": "🇧🇷"
+    "flagEmoji": "🇧🇷",
+    "region": "South America",
+    "nativeName": "Brasil",
+    "capital": "Brasília",
+    "currency": "BRL",
+    "currencySymbol": "R$"
   },
   {
     "name": "British Indian Ocean Territory",
     "code": "IO",
     "phoneCode": "+246",
-    "flagEmoji": "🇮🇴"
+    "flagEmoji": "🇮🇴",
+    "region": "Asia",
+    "nativeName": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Brunei Darussalam",
     "code": "BN",
     "phoneCode": "+673",
-    "flagEmoji": "🇧🇳"
+    "flagEmoji": "🇧🇳",
+    "region": "Asia",
+    "nativeName": "Negara Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND",
+    "currencySymbol": "$"
   },
   {
     "name": "Bulgaria",
     "code": "BG",
     "phoneCode": "+359",
-    "flagEmoji": "🇧🇬"
+    "flagEmoji": "🇧🇬",
+    "region": "Europe",
+    "nativeName": "България",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "currencySymbol": "лв"
   },
   {
     "name": "Burkina Faso",
     "code": "BF",
     "phoneCode": "+226",
-    "flagEmoji": "🇧🇫"
+    "flagEmoji": "🇧🇫",
+    "region": "Africa",
+    "nativeName": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Burundi",
     "code": "BI",
     "phoneCode": "+257",
-    "flagEmoji": "🇧🇮"
+    "flagEmoji": "🇧🇮",
+    "region": "Africa",
+    "nativeName": "Burundi",
+    "capital": "Gitega",
+    "currency": "BIF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Cambodia",
     "code": "KH",
     "phoneCode": "+855",
-    "flagEmoji": "🇰🇭"
+    "flagEmoji": "🇰🇭",
+    "region": "Asia",
+    "nativeName": "Kâmpŭchéa",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currencySymbol": "៛"
   },
   {
     "name": "Cameroon",
     "code": "CM",
     "phoneCode": "+237",
-    "flagEmoji": "🇨🇲"
+    "flagEmoji": "🇨🇲",
+    "region": "Africa",
+    "nativeName": "Cameroon",
+    "capital": "Yaoundé",
+    "currency": "XAF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Canada",
     "code": "CA",
     "phoneCode": "+1",
-    "flagEmoji": "🇨🇦"
+    "flagEmoji": "🇨🇦",
+    "region": "North America",
+    "nativeName": "Canada",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currencySymbol": "$"
   },
   {
     "name": "Cape Verde",
     "code": "CV",
     "phoneCode": "+238",
-    "flagEmoji": "🇨🇻"
+    "flagEmoji": "🇨🇻",
+    "region": "Africa",
+    "nativeName": "Cabo Verde",
+    "capital": "Praia",
+    "currency": "CVE",
+    "currencySymbol": "Esc"
   },
   {
     "name": "Cayman Islands",
     "code": "KY",
     "phoneCode": "+345",
-    "flagEmoji": "🇰🇾"
+    "flagEmoji": "🇰🇾",
+    "region": "North America",
+    "nativeName": "Cayman Islands",
+    "capital": "George Town",
+    "currency": "KYD",
+    "currencySymbol": "$"
   },
   {
     "name": "Central African Republic",
     "code": "CF",
     "phoneCode": "+236",
-    "flagEmoji": "🇨🇫"
+    "flagEmoji": "🇨🇫",
+    "region": "Africa",
+    "nativeName": "Ködörösêse tî Bêafrîka",
+    "capital": "Bangui",
+    "currency": "XAF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Chad",
     "code": "TD",
     "phoneCode": "+235",
-    "flagEmoji": "🇹🇩"
+    "flagEmoji": "🇹🇩",
+    "region": "Africa",
+    "nativeName": "Tchad",
+    "capital": "N'Djamena",
+    "currency": "XAF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Chile",
     "code": "CL",
     "phoneCode": "+56",
-    "flagEmoji": "🇨🇱"
+    "flagEmoji": "🇨🇱",
+    "region": "South America",
+    "nativeName": "Chile",
+    "capital": "Santiago",
+    "currency": "CLP",
+    "currencySymbol": "$"
   },
   {
     "name": "China",
     "code": "CN",
     "phoneCode": "+86",
-    "flagEmoji": "🇨🇳"
+    "flagEmoji": "🇨🇳",
+    "region": "Asia",
+    "nativeName": "中国",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currencySymbol": "¥"
   },
   {
     "name": "Christmas Island",
     "code": "CX",
     "phoneCode": "+61",
-    "flagEmoji": "🇨🇽"
+    "flagEmoji": "🇨🇽",
+    "region": "Oceania",
+    "nativeName": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Cocos (Keeling) Islands",
     "code": "CC",
     "phoneCode": "+61",
-    "flagEmoji": "🇨🇨"
+    "flagEmoji": "🇨🇨",
+    "region": "Oceania",
+    "nativeName": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Colombia",
     "code": "CO",
     "phoneCode": "+57",
-    "flagEmoji": "🇨🇴"
+    "flagEmoji": "🇨🇴",
+    "region": "South America",
+    "nativeName": "Colombia",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currencySymbol": "$"
   },
   {
     "name": "Comoros",
     "code": "KM",
     "phoneCode": "+269",
-    "flagEmoji": "🇰🇲"
+    "flagEmoji": "🇰🇲",
+    "region": "Africa",
+    "nativeName": "Komori",
+    "capital": "Moroni",
+    "currency": "KMF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Congo",
     "code": "CG",
     "phoneCode": "+242",
-    "flagEmoji": "🇨🇬"
+    "flagEmoji": "🇨🇬",
+    "region": "Africa",
+    "nativeName": "République du Congo",
+    "capital": "Brazzaville",
+    "currency": "XAF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Congo, The Democratic Republic of the Congo",
     "code": "CD",
     "phoneCode": "+243",
-    "flagEmoji": "🇨🇩"
+    "flagEmoji": "🇨🇩",
+    "region": "Africa",
+    "nativeName": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "currency": "CDF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Cook Islands",
     "code": "CK",
     "phoneCode": "+682",
-    "flagEmoji": "🇨🇰"
+    "flagEmoji": "🇨🇰",
+    "region": "Oceania",
+    "nativeName": "Cook Islands",
+    "capital": "Avarua",
+    "currency": "NZD",
+    "currencySymbol": "$"
   },
   {
     "name": "Costa Rica",
     "code": "CR",
     "phoneCode": "+506",
-    "flagEmoji": "🇨🇷"
+    "flagEmoji": "🇨🇷",
+    "region": "North America",
+    "nativeName": "Costa Rica",
+    "capital": "San José",
+    "currency": "CRC",
+    "currencySymbol": "₡"
   },
   {
     "name": "Cote d'Ivoire",
     "code": "CI",
     "phoneCode": "+225",
-    "flagEmoji": "🇨🇮"
+    "flagEmoji": "🇨🇮",
+    "region": "Africa",
+    "nativeName": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Croatia",
     "code": "HR",
     "phoneCode": "+385",
-    "flagEmoji": "🇭🇷"
+    "flagEmoji": "🇭🇷",
+    "region": "Europe",
+    "nativeName": "Hrvatska",
+    "capital": "Zagreb",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Cuba",
     "code": "CU",
     "phoneCode": "+53",
-    "flagEmoji": "🇨🇺"
+    "flagEmoji": "🇨🇺",
+    "region": "North America",
+    "nativeName": "Cuba",
+    "capital": "Havana",
+    "currency": "CUP",
+    "currencySymbol": "$"
   },
   {
     "name": "Cyprus",
     "code": "CY",
     "phoneCode": "+357",
-    "flagEmoji": "🇨🇾"
+    "flagEmoji": "🇨🇾",
+    "region": "Europe",
+    "nativeName": "Κύπρος / Kıbrıs",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Czech Republic",
     "code": "CZ",
     "phoneCode": "+420",
-    "flagEmoji": "🇨🇿"
+    "flagEmoji": "🇨🇿",
+    "region": "Europe",
+    "nativeName": "Česká republika",
+    "capital": "Prague",
+    "currency": "CZK",
+    "currencySymbol": "Kč"
   },
   {
     "name": "Denmark",
     "code": "DK",
     "phoneCode": "+45",
-    "flagEmoji": "🇩🇰"
+    "flagEmoji": "🇩🇰",
+    "region": "Europe",
+    "nativeName": "Danmark",
+    "capital": "Copenhagen",
+    "currency": "DKK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Djibouti",
     "code": "DJ",
     "phoneCode": "+253",
-    "flagEmoji": "🇩🇯"
+    "flagEmoji": "🇩🇯",
+    "region": "Africa",
+    "nativeName": "Djibouti",
+    "capital": "Djibouti",
+    "currency": "DJF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Dominica",
     "code": "DM",
     "phoneCode": "+1767",
-    "flagEmoji": "🇩🇲"
+    "flagEmoji": "🇩🇲",
+    "region": "North America",
+    "nativeName": "Dominica",
+    "capital": "Roseau",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Dominican Republic",
     "code": "DO",
     "phoneCode": "+1849",
-    "flagEmoji": "🇩🇴"
+    "flagEmoji": "🇩🇴",
+    "region": "North America",
+    "nativeName": "República Dominicana",
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "currencySymbol": "$"
   },
   {
     "name": "Ecuador",
     "code": "EC",
     "phoneCode": "+593",
-    "flagEmoji": "🇪🇨"
+    "flagEmoji": "🇪🇨",
+    "region": "South America",
+    "nativeName": "Ecuador",
+    "capital": "Quito",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Egypt",
     "code": "EG",
     "phoneCode": "+20",
-    "flagEmoji": "🇪🇬"
+    "flagEmoji": "🇪🇬",
+    "region": "Africa",
+    "nativeName": "مصر‎",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currencySymbol": "£"
   },
   {
     "name": "El Salvador",
     "code": "SV",
     "phoneCode": "+503",
-    "flagEmoji": "🇸🇻"
+    "flagEmoji": "🇸🇻",
+    "region": "North America",
+    "nativeName": "El Salvador",
+    "capital": "San Salvador",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Equatorial Guinea",
     "code": "GQ",
     "phoneCode": "+240",
-    "flagEmoji": "🇬🇶"
+    "flagEmoji": "🇬🇶",
+    "region": "Africa",
+    "nativeName": "Guinea Ecuatorial",
+    "capital": "Malabo",
+    "currency": "XAF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Eritrea",
     "code": "ER",
     "phoneCode": "+291",
-    "flagEmoji": "🇪🇷"
+    "flagEmoji": "🇪🇷",
+    "region": "Africa",
+    "nativeName": "ኤርትራ",
+    "capital": "Asmara",
+    "currency": "ERN",
+    "currencySymbol": "Nfk"
   },
   {
     "name": "Estonia",
     "code": "EE",
     "phoneCode": "+372",
-    "flagEmoji": "🇪🇪"
+    "flagEmoji": "🇪🇪",
+    "region": "Europe",
+    "nativeName": "Eesti",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Eswatini",
     "code": "SZ",
     "phoneCode": "+268",
-    "flagEmoji": "🇸🇿"
+    "flagEmoji": "🇸🇿",
+    "region": "Africa",
+    "nativeName": "eSwatini",
+    "capital": "Mbabane",
+    "currency": "SZL",
+    "currencySymbol": "L"
   },
   {
     "name": "Ethiopia",
     "code": "ET",
     "phoneCode": "+251",
-    "flagEmoji": "🇪🇹"
+    "flagEmoji": "🇪🇹",
+    "region": "Africa",
+    "nativeName": "ኢትዮጵያ",
+    "capital": "Addis Ababa",
+    "currency": "ETB",
+    "currencySymbol": "Br"
   },
   {
     "name": "Falkland Islands (Malvinas)",
     "code": "FK",
     "phoneCode": "+500",
-    "flagEmoji": "🇫🇰"
+    "flagEmoji": "🇫🇰",
+    "region": "South America",
+    "nativeName": "Falkland Islands",
+    "capital": "Stanley",
+    "currency": "FKP",
+    "currencySymbol": "£"
   },
   {
     "name": "Faroe Islands",
     "code": "FO",
     "phoneCode": "+298",
-    "flagEmoji": "🇫🇴"
+    "flagEmoji": "🇫🇴",
+    "region": "Europe",
+    "nativeName": "Føroyar",
+    "capital": "Tórshavn",
+    "currency": "DKK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Fiji",
     "code": "FJ",
     "phoneCode": "+679",
-    "flagEmoji": "🇫🇯"
+    "flagEmoji": "🇫🇯",
+    "region": "Oceania",
+    "nativeName": "Fiji",
+    "capital": "Suva",
+    "currency": "FJD",
+    "currencySymbol": "$"
   },
   {
     "name": "Finland",
     "code": "FI",
     "phoneCode": "+358",
-    "flagEmoji": "🇫🇮"
+    "flagEmoji": "🇫🇮",
+    "region": "Europe",
+    "nativeName": "Suomi",
+    "capital": "Helsinki",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "France",
     "code": "FR",
     "phoneCode": "+33",
-    "flagEmoji": "🇫🇷"
+    "flagEmoji": "🇫🇷",
+    "region": "Europe",
+    "nativeName": "France",
+    "capital": "Paris",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "French Guiana",
     "code": "GF",
     "phoneCode": "+594",
-    "flagEmoji": "🇬🇫"
+    "flagEmoji": "🇬🇫",
+    "region": "South America",
+    "nativeName": "Guyane française",
+    "capital": "Cayenne",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "French Polynesia",
     "code": "PF",
     "phoneCode": "+689",
-    "flagEmoji": "🇵🇫"
+    "flagEmoji": "🇵🇫",
+    "region": "Oceania",
+    "nativeName": "Polynésie française",
+    "capital": "Papeetē",
+    "currency": "XPF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Gabon",
     "code": "GA",
     "phoneCode": "+241",
-    "flagEmoji": "🇬🇦"
+    "flagEmoji": "🇬🇦",
+    "region": "Africa",
+    "nativeName": "Gabon",
+    "capital": "Libreville",
+    "currency": "XAF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Gambia",
     "code": "GM",
     "phoneCode": "+220",
-    "flagEmoji": "🇬🇲"
+    "flagEmoji": "🇬🇲",
+    "region": "Africa",
+    "nativeName": "Gambia",
+    "capital": "Banjul",
+    "currency": "GMD",
+    "currencySymbol": "D"
   },
   {
     "name": "Georgia",
     "code": "GE",
     "phoneCode": "+995",
-    "flagEmoji": "🇬🇪"
+    "flagEmoji": "🇬🇪",
+    "region": "Asia",
+    "nativeName": "საქართველო",
+    "capital": "Tbilisi",
+    "currency": "GEL",
+    "currencySymbol": "₾"
   },
   {
     "name": "Germany",
     "code": "DE",
     "phoneCode": "+49",
-    "flagEmoji": "🇩🇪"
+    "flagEmoji": "🇩🇪",
+    "region": "Europe",
+    "nativeName": "Deutschland",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Ghana",
     "code": "GH",
     "phoneCode": "+233",
-    "flagEmoji": "🇬🇭"
+    "flagEmoji": "🇬🇭",
+    "region": "Africa",
+    "nativeName": "Ghana",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currencySymbol": "₵"
   },
   {
     "name": "Gibraltar",
     "code": "GI",
     "phoneCode": "+350",
-    "flagEmoji": "🇬🇮"
+    "flagEmoji": "🇬🇮",
+    "region": "Europe",
+    "nativeName": "Gibraltar",
+    "capital": "Gibraltar",
+    "currency": "GIP",
+    "currencySymbol": "£"
   },
   {
     "name": "Greece",
     "code": "GR",
     "phoneCode": "+30",
-    "flagEmoji": "🇬🇷"
+    "flagEmoji": "🇬🇷",
+    "region": "Europe",
+    "nativeName": "Ελλάδα",
+    "capital": "Athens",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Greenland",
     "code": "GL",
     "phoneCode": "+299",
-    "flagEmoji": "🇬🇱"
+    "flagEmoji": "🇬🇱",
+    "region": "North America",
+    "nativeName": "Kalaallit Nunaat",
+    "capital": "Nuuk",
+    "currency": "DKK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Grenada",
     "code": "GD",
     "phoneCode": "+1473",
-    "flagEmoji": "🇬🇩"
+    "flagEmoji": "🇬🇩",
+    "region": "North America",
+    "nativeName": "Grenada",
+    "capital": "St. George's",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Guadeloupe",
     "code": "GP",
     "phoneCode": "+590",
-    "flagEmoji": "🇬🇵"
+    "flagEmoji": "🇬🇵",
+    "region": "North America",
+    "nativeName": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Guam",
     "code": "GU",
     "phoneCode": "+1671",
-    "flagEmoji": "🇬🇺"
+    "flagEmoji": "🇬🇺",
+    "region": "Oceania",
+    "nativeName": "Guam",
+    "capital": "Hagåtña",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Guatemala",
     "code": "GT",
     "phoneCode": "+502",
-    "flagEmoji": "🇬🇹"
+    "flagEmoji": "🇬🇹",
+    "region": "North America",
+    "nativeName": "Guatemala",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "currencySymbol": "Q"
   },
   {
     "name": "Guernsey",
     "code": "GG",
     "phoneCode": "+44",
-    "flagEmoji": "🇬🇬"
+    "flagEmoji": "🇬🇬",
+    "region": "Europe",
+    "nativeName": "Guernsey",
+    "capital": "St. Peter Port",
+    "currency": "GBP",
+    "currencySymbol": "£"
   },
   {
     "name": "Guinea",
     "code": "GN",
     "phoneCode": "+224",
-    "flagEmoji": "🇬🇳"
+    "flagEmoji": "🇬🇳",
+    "region": "Africa",
+    "nativeName": "Guinée",
+    "capital": "Conakry",
+    "currency": "GNF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Guinea-Bissau",
     "code": "GW",
     "phoneCode": "+245",
-    "flagEmoji": "🇬🇼"
+    "flagEmoji": "🇬🇼",
+    "region": "Africa",
+    "nativeName": "Guiné-Bissau",
+    "capital": "Bissau",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Guyana",
     "code": "GY",
     "phoneCode": "+595",
-    "flagEmoji": "🇬🇾"
+    "flagEmoji": "🇬🇾",
+    "region": "South America",
+    "nativeName": "Guyana",
+    "capital": "Georgetown",
+    "currency": "GYD",
+    "currencySymbol": "$"
   },
   {
     "name": "Haiti",
     "code": "HT",
     "phoneCode": "+509",
-    "flagEmoji": "🇭🇹"
+    "flagEmoji": "🇭🇹",
+    "region": "North America",
+    "nativeName": "Haïti / Ayiti",
+    "capital": "Port-au-Prince",
+    "currency": "HTG",
+    "currencySymbol": "G"
   },
   {
     "name": "Holy See (Vatican City State)",
     "code": "VA",
     "phoneCode": "+379",
-    "flagEmoji": "🇻🇦"
+    "flagEmoji": "🇻🇦",
+    "region": "Europe",
+    "nativeName": "Sancta Sedes / Stato della Città del Vaticano",
+    "capital": "Vatican City",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Honduras",
     "code": "HN",
     "phoneCode": "+504",
-    "flagEmoji": "🇭🇳"
+    "flagEmoji": "🇭🇳",
+    "region": "North America",
+    "nativeName": "Honduras",
+    "capital": "Tegucigalpa",
+    "currency": "HNL",
+    "currencySymbol": "L"
   },
   {
     "name": "Hong Kong",
     "code": "HK",
     "phoneCode": "+852",
-    "flagEmoji": "🇭🇰"
+    "flagEmoji": "🇭🇰",
+    "region": "Asia",
+    "nativeName": "香港",
+    "capital": "City of Victoria",
+    "currency": "HKD",
+    "currencySymbol": "$"
   },
   {
     "name": "Hungary",
     "code": "HU",
     "phoneCode": "+36",
-    "flagEmoji": "🇭🇺"
+    "flagEmoji": "🇭🇺",
+    "region": "Europe",
+    "nativeName": "Magyarország",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currencySymbol": "Ft"
   },
   {
     "name": "Iceland",
     "code": "IS",
     "phoneCode": "+354",
-    "flagEmoji": "🇮🇸"
+    "flagEmoji": "🇮🇸",
+    "region": "Europe",
+    "nativeName": "Ísland",
+    "capital": "Reykjavik",
+    "currency": "ISK",
+    "currencySymbol": "kr"
   },
   {
     "name": "India",
     "code": "IN",
     "phoneCode": "+91",
-    "flagEmoji": "🇮🇳"
+    "flagEmoji": "🇮🇳",
+    "region": "Asia",
+    "nativeName": "भारत / India",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currencySymbol": "₹"
   },
   {
     "name": "Indonesia",
     "code": "ID",
     "phoneCode": "+62",
-    "flagEmoji": "🇮🇩"
+    "flagEmoji": "🇮🇩",
+    "region": "Asia",
+    "nativeName": "Indonesia",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currencySymbol": "Rp"
   },
   {
     "name": "Iran, Islamic Republic of",
     "code": "IR",
     "phoneCode": "+98",
-    "flagEmoji": "🇮🇷"
+    "flagEmoji": "🇮🇷",
+    "region": "Asia",
+    "nativeName": "ایران",
+    "capital": "Tehran",
+    "currency": "IRR",
+    "currencySymbol": "﷼"
   },
   {
     "name": "Iraq",
     "code": "IQ",
     "phoneCode": "+964",
-    "flagEmoji": "🇮🇶"
+    "flagEmoji": "🇮🇶",
+    "region": "Asia",
+    "nativeName": "العراق",
+    "capital": "Baghdad",
+    "currency": "IQD",
+    "currencySymbol": "ع.د"
   },
   {
     "name": "Ireland",
     "code": "IE",
     "phoneCode": "+353",
-    "flagEmoji": "🇮🇪"
+    "flagEmoji": "🇮🇪",
+    "region": "Europe",
+    "nativeName": "Éire / Ireland",
+    "capital": "Dublin",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Isle of Man",
     "code": "IM",
     "phoneCode": "+44",
-    "flagEmoji": "🇮🇲"
+    "flagEmoji": "🇮🇲",
+    "region": "Europe",
+    "nativeName": "Ellan Vannin / Isle of Man",
+    "capital": "Douglas",
+    "currency": "GBP",
+    "currencySymbol": "£"
   },
   {
     "name": "Israel",
     "code": "IL",
     "phoneCode": "+972",
-    "flagEmoji": "🇮🇱"
+    "flagEmoji": "🇮🇱",
+    "region": "Asia",
+    "nativeName": "יִשְׂרָאֵל",
+    "capital": "Jerusalem",
+    "currency": "ILS",
+    "currencySymbol": "₪"
   },
   {
     "name": "Italy",
     "code": "IT",
     "phoneCode": "+39",
-    "flagEmoji": "🇮🇹"
+    "flagEmoji": "🇮🇹",
+    "region": "Europe",
+    "nativeName": "Italia",
+    "capital": "Rome",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Jamaica",
     "code": "JM",
     "phoneCode": "+1876",
-    "flagEmoji": "🇯🇲"
+    "flagEmoji": "🇯🇲",
+    "region": "North America",
+    "nativeName": "Jamaica",
+    "capital": "Kingston",
+    "currency": "JMD",
+    "currencySymbol": "$"
   },
   {
     "name": "Japan",
     "code": "JP",
     "phoneCode": "+81",
-    "flagEmoji": "🇯🇵"
+    "flagEmoji": "🇯🇵",
+    "region": "Asia",
+    "nativeName": "日本",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currencySymbol": "¥"
   },
   {
     "name": "Jersey",
     "code": "JE",
     "phoneCode": "+44",
-    "flagEmoji": "🇯🇪"
+    "flagEmoji": "🇯🇪",
+    "region": "Europe",
+    "nativeName": "Jersey",
+    "capital": "Saint Helier",
+    "currency": "GBP",
+    "currencySymbol": "£"
   },
   {
     "name": "Jordan",
     "code": "JO",
     "phoneCode": "+962",
-    "flagEmoji": "🇯🇴"
+    "flagEmoji": "🇯🇴",
+    "region": "Asia",
+    "nativeName": "الأردن",
+    "capital": "Amman",
+    "currency": "JOD",
+    "currencySymbol": "د.ا"
   },
   {
     "name": "Kazakhstan",
     "code": "KZ",
     "phoneCode": "+77",
-    "flagEmoji": "🇰🇿"
+    "flagEmoji": "🇰🇿",
+    "region": "Asia",
+    "nativeName": "Қазақстан",
+    "capital": "Nur-Sultan",
+    "currency": "KZT",
+    "currencySymbol": "₸"
   },
   {
     "name": "Kenya",
     "code": "KE",
     "phoneCode": "+254",
-    "flagEmoji": "🇰🇪"
+    "flagEmoji": "🇰🇪",
+    "region": "Africa",
+    "nativeName": "Kenya",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currencySymbol": "Sh"
   },
   {
     "name": "Kiribati",
     "code": "KI",
     "phoneCode": "+686",
-    "flagEmoji": "🇰🇮"
+    "flagEmoji": "🇰🇮",
+    "region": "Oceania",
+    "nativeName": "Kiribati",
+    "capital": "South Tarawa",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Korea, Democratic People's Republic of Korea",
     "code": "KP",
     "phoneCode": "+850",
-    "flagEmoji": "🇰🇵"
+    "flagEmoji": "🇰🇵",
+    "region": "Asia",
+    "nativeName": "조선민주주의인민공화국",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currencySymbol": "₩"
   },
   {
     "name": "Korea, Republic of South Korea",
     "code": "KR",
     "phoneCode": "+82",
-    "flagEmoji": "🇰🇷"
+    "flagEmoji": "🇰🇷",
+    "region": "Asia",
+    "nativeName": "대한민국",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "currencySymbol": "₩"
   },
   {
     "name": "Kuwait",
     "code": "KW",
     "phoneCode": "+965",
-    "flagEmoji": "🇰🇼"
+    "flagEmoji": "🇰🇼",
+    "region": "Asia",
+    "nativeName": "الكويت",
+    "capital": "Kuwait City",
+    "currency": "KWD",
+    "currencySymbol": "د.ك"
   },
   {
     "name": "Kyrgyzstan",
     "code": "KG",
     "phoneCode": "+996",
-    "flagEmoji": "🇰🇬"
+    "flagEmoji": "🇰🇬",
+    "region": "Asia",
+    "nativeName": "Кыргызстан",
+    "capital": "Bishkek",
+    "currency": "KGS",
+    "currencySymbol": "с"
   },
   {
     "name": "Laos",
     "code": "LA",
     "phoneCode": "+856",
-    "flagEmoji": "🇱🇦"
+    "flagEmoji": "🇱🇦",
+    "region": "Asia",
+    "nativeName": "ສປປລາວ",
+    "capital": "Vientiane",
+    "currency": "LAK",
+    "currencySymbol": "₭"
   },
   {
     "name": "Latvia",
     "code": "LV",
     "phoneCode": "+371",
-    "flagEmoji": "🇱🇻"
+    "flagEmoji": "🇱🇻",
+    "region": "Europe",
+    "nativeName": "Latvija",
+    "capital": "Riga",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Lebanon",
     "code": "LB",
     "phoneCode": "+961",
-    "flagEmoji": "🇱🇧"
+    "flagEmoji": "🇱🇧",
+    "region": "Asia",
+    "nativeName": "لبنان",
+    "capital": "Beirut",
+    "currency": "LBP",
+    "currencySymbol": "ل.ل"
   },
   {
     "name": "Lesotho",
     "code": "LS",
     "phoneCode": "+266",
-    "flagEmoji": "🇱🇸"
+    "flagEmoji": "🇱🇸",
+    "region": "Africa",
+    "nativeName": "Lesotho",
+    "capital": "Maseru",
+    "currency": "LSL",
+    "currencySymbol": "L"
   },
   {
     "name": "Liberia",
     "code": "LR",
     "phoneCode": "+231",
-    "flagEmoji": "🇱🇷"
+    "flagEmoji": "🇱🇷",
+    "region": "Africa",
+    "nativeName": "Liberia",
+    "capital": "Monrovia",
+    "currency": "LRD",
+    "currencySymbol": "$"
   },
   {
     "name": "Libya",
     "code": "LY",
     "phoneCode": "+218",
-    "flagEmoji": "🇱🇾"
+    "flagEmoji": "🇱🇾",
+    "region": "Africa",
+    "nativeName": "‏ليبيا",
+    "capital": "Tripoli",
+    "currency": "LYD",
+    "currencySymbol": "ل.د"
   },
   {
     "name": "Liechtenstein",
     "code": "LI",
     "phoneCode": "+423",
-    "flagEmoji": "🇱🇮"
+    "flagEmoji": "🇱🇮",
+    "region": "Europe",
+    "nativeName": "Liechtenstein",
+    "capital": "Vaduz",
+    "currency": "CHF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Lithuania",
     "code": "LT",
     "phoneCode": "+370",
-    "flagEmoji": "🇱🇹"
+    "flagEmoji": "🇱🇹",
+    "region": "Europe",
+    "nativeName": "Lietuva",
+    "capital": "Vilnius",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Luxembourg",
     "code": "LU",
     "phoneCode": "+352",
-    "flagEmoji": "🇱🇺"
+    "flagEmoji": "🇱🇺",
+    "region": "Europe",
+    "nativeName": "Lëtzebuerg",
+    "capital": "Luxembourg",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Macao",
     "code": "MO",
     "phoneCode": "+853",
-    "flagEmoji": "🇲🇴"
+    "flagEmoji": "🇲🇴",
+    "region": "Asia",
+    "nativeName": "澳門 / Macau",
+    "capital": "Macau",
+    "currency": "MOP",
+    "currencySymbol": "P"
   },
   {
     "name": "Madagascar",
     "code": "MG",
     "phoneCode": "+261",
-    "flagEmoji": "🇲🇬"
+    "flagEmoji": "🇲🇬",
+    "region": "Africa",
+    "nativeName": "Madagasikara",
+    "capital": "Antananarivo",
+    "currency": "MGA",
+    "currencySymbol": "Ar"
   },
   {
     "name": "Malawi",
     "code": "MW",
     "phoneCode": "+265",
-    "flagEmoji": "🇲🇼"
+    "flagEmoji": "🇲🇼",
+    "region": "Africa",
+    "nativeName": "Malawi",
+    "capital": "Lilongwe",
+    "currency": "MWK",
+    "currencySymbol": "MK"
   },
   {
     "name": "Malaysia",
     "code": "MY",
     "phoneCode": "+60",
-    "flagEmoji": "🇲🇾"
+    "flagEmoji": "🇲🇾",
+    "region": "Asia",
+    "nativeName": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "currencySymbol": "RM"
   },
   {
     "name": "Maldives",
     "code": "MV",
     "phoneCode": "+960",
-    "flagEmoji": "🇲🇻"
+    "flagEmoji": "🇲🇻",
+    "region": "Asia",
+    "nativeName": "ދިވެހިރާއްޖެ",
+    "capital": "Malé",
+    "currency": "MVR",
+    "currencySymbol": ".ރ"
   },
   {
     "name": "Mali",
     "code": "ML",
     "phoneCode": "+223",
-    "flagEmoji": "🇲🇱"
+    "flagEmoji": "🇲🇱",
+    "region": "Africa",
+    "nativeName": "Mali",
+    "capital": "Bamako",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Malta",
     "code": "MT",
     "phoneCode": "+356",
-    "flagEmoji": "🇲🇹"
+    "flagEmoji": "🇲🇹",
+    "region": "Europe",
+    "nativeName": "Malta",
+    "capital": "Valletta",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Marshall Islands",
     "code": "MH",
     "phoneCode": "+692",
-    "flagEmoji": "🇲🇭"
+    "flagEmoji": "🇲🇭",
+    "region": "Oceania",
+    "nativeName": "M̧ajeļ",
+    "capital": "Majuro",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Martinique",
     "code": "MQ",
     "phoneCode": "+596",
-    "flagEmoji": "🇲🇶"
+    "flagEmoji": "🇲🇶",
+    "region": "North America",
+    "nativeName": "Martinique",
+    "capital": "Fort-de-France",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Mauritania",
     "code": "MR",
     "phoneCode": "+222",
-    "flagEmoji": "🇲🇷"
+    "flagEmoji": "🇲🇷",
+    "region": "Africa",
+    "nativeName": "موريتانيا",
+    "capital": "Nouakchott",
+    "currency": "MRU",
+    "currencySymbol": "UM"
   },
   {
     "name": "Mauritius",
     "code": "MU",
     "phoneCode": "+230",
-    "flagEmoji": "🇲🇺"
+    "flagEmoji": "🇲🇺",
+    "region": "Africa",
+    "nativeName": "Mauritius",
+    "capital": "Port Louis",
+    "currency": "MUR",
+    "currencySymbol": "₨"
   },
   {
     "name": "Mayotte",
     "code": "YT",
     "phoneCode": "+262",
-    "flagEmoji": "🇾🇹"
+    "flagEmoji": "🇾🇹",
+    "region": "Africa",
+    "nativeName": "Mayotte",
+    "capital": "Mamoudzou",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Mexico",
     "code": "MX",
     "phoneCode": "+52",
-    "flagEmoji": "🇲🇽"
+    "flagEmoji": "🇲🇽",
+    "region": "North America",
+    "nativeName": "México",
+    "capital": "Mexico City",
+    "currency": "MXN",
+    "currencySymbol": "$"
   },
   {
     "name": "Micronesia, Federated States of Micronesia",
     "code": "FM",
     "phoneCode": "+691",
-    "flagEmoji": "🇫🇲"
+    "flagEmoji": "🇫🇲",
+    "region": "Oceania",
+    "nativeName": "Micronesia",
+    "capital": "Palikir",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Moldova",
     "code": "MD",
     "phoneCode": "+373",
-    "flagEmoji": "🇲🇩"
+    "flagEmoji": "🇲🇩",
+    "region": "Europe",
+    "nativeName": "Moldova",
+    "capital": "Chișinău",
+    "currency": "MDL",
+    "currencySymbol": "L"
   },
   {
     "name": "Monaco",
     "code": "MC",
     "phoneCode": "+377",
-    "flagEmoji": "🇲🇨"
+    "flagEmoji": "🇲🇨",
+    "region": "Europe",
+    "nativeName": "Monaco",
+    "capital": "Monaco",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Mongolia",
     "code": "MN",
     "phoneCode": "+976",
-    "flagEmoji": "🇲🇳"
+    "flagEmoji": "🇲🇳",
+    "region": "Asia",
+    "nativeName": "Монгол улс",
+    "capital": "Ulaanbaatar",
+    "currency": "MNT",
+    "currencySymbol": "₮"
   },
   {
     "name": "Montenegro",
     "code": "ME",
     "phoneCode": "+382",
-    "flagEmoji": "🇲🇪"
+    "flagEmoji": "🇲🇪",
+    "region": "Europe",
+    "nativeName": "Crna Gora",
+    "capital": "Podgorica",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Montserrat",
     "code": "MS",
     "phoneCode": "+1664",
-    "flagEmoji": "🇲🇸"
+    "flagEmoji": "🇲🇸",
+    "region": "North America",
+    "nativeName": "Montserrat",
+    "capital": "Plymouth",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Morocco",
     "code": "MA",
     "phoneCode": "+212",
-    "flagEmoji": "🇲🇦"
+    "flagEmoji": "🇲🇦",
+    "region": "Africa",
+    "nativeName": "المغرب",
+    "capital": "Rabat",
+    "currency": "MAD",
+    "currencySymbol": "د.م."
   },
   {
     "name": "Mozambique",
     "code": "MZ",
     "phoneCode": "+258",
-    "flagEmoji": "🇲🇿"
+    "flagEmoji": "🇲🇿",
+    "region": "Africa",
+    "nativeName": "Moçambique",
+    "capital": "Maputo",
+    "currency": "MZN",
+    "currencySymbol": "MT"
   },
   {
     "name": "Myanmar",
     "code": "MM",
     "phoneCode": "+95",
-    "flagEmoji": "🇲🇲"
+    "flagEmoji": "🇲🇲",
+    "region": "Asia",
+    "nativeName": "မြန်မာ",
+    "capital": "Naypyidaw",
+    "currency": "MMK",
+    "currencySymbol": "K"
   },
   {
     "name": "Namibia",
     "code": "NA",
     "phoneCode": "+264",
-    "flagEmoji": "🇳🇦"
+    "flagEmoji": "🇳🇦",
+    "region": "Africa",
+    "nativeName": "Namibia",
+    "capital": "Windhoek",
+    "currency": "NAD",
+    "currencySymbol": "$"
   },
   {
     "name": "Nauru",
     "code": "NR",
     "phoneCode": "+674",
-    "flagEmoji": "🇳🇷"
+    "flagEmoji": "🇳🇷",
+    "region": "Oceania",
+    "nativeName": "Naoero",
+    "capital": "Yaren",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Nepal",
     "code": "NP",
     "phoneCode": "+977",
-    "flagEmoji": "🇳🇵"
+    "flagEmoji": "🇳🇵",
+    "region": "Asia",
+    "nativeName": "नेपाल",
+    "capital": "Kathmandu",
+    "currency": "NPR",
+    "currencySymbol": "₨"
   },
   {
     "name": "Netherlands",
     "code": "NL",
     "phoneCode": "+31",
-    "flagEmoji": "🇳🇱"
+    "flagEmoji": "🇳🇱",
+    "region": "Europe",
+    "nativeName": "Nederland",
+    "capital": "Amsterdam",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "New Caledonia",
     "code": "NC",
     "phoneCode": "+687",
-    "flagEmoji": "🇳🇨"
+    "flagEmoji": "🇳🇨",
+    "region": "Oceania",
+    "nativeName": "Nouvelle-Calédonie",
+    "capital": "Nouméa",
+    "currency": "XPF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "New Zealand",
     "code": "NZ",
     "phoneCode": "+64",
-    "flagEmoji": "🇳🇿"
+    "flagEmoji": "🇳🇿",
+    "region": "Oceania",
+    "nativeName": "New Zealand / Aotearoa",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currencySymbol": "$"
   },
   {
     "name": "Nicaragua",
     "code": "NI",
     "phoneCode": "+505",
-    "flagEmoji": "🇳🇮"
+    "flagEmoji": "🇳🇮",
+    "region": "North America",
+    "nativeName": "Nicaragua",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currencySymbol": "C$"
   },
   {
     "name": "Niger",
     "code": "NE",
     "phoneCode": "+227",
-    "flagEmoji": "🇳🇪"
+    "flagEmoji": "🇳🇪",
+    "region": "Africa",
+    "nativeName": "Niger",
+    "capital": "Niamey",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Nigeria",
     "code": "NG",
     "phoneCode": "+234",
-    "flagEmoji": "🇳🇬"
+    "flagEmoji": "🇳🇬",
+    "region": "Africa",
+    "nativeName": "Nigeria",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currencySymbol": "₦"
   },
   {
     "name": "Niue",
     "code": "NU",
     "phoneCode": "+683",
-    "flagEmoji": "🇳🇺"
+    "flagEmoji": "🇳🇺",
+    "region": "Oceania",
+    "nativeName": "Niuē",
+    "capital": "Alofi",
+    "currency": "NZD",
+    "currencySymbol": "$"
   },
   {
     "name": "Norfolk Island",
     "code": "NF",
     "phoneCode": "+672",
-    "flagEmoji": "🇳🇫"
+    "flagEmoji": "🇳🇫",
+    "region": "Oceania",
+    "nativeName": "Norfolk Island",
+    "capital": "Kingston",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "North Macedonia",
     "code": "MK",
     "phoneCode": "+389",
-    "flagEmoji": "🇲🇰"
+    "flagEmoji": "🇲🇰",
+    "region": "Europe",
+    "nativeName": "Северна Македонија",
+    "capital": "Skopje",
+    "currency": "MKD",
+    "currencySymbol": "ден"
   },
   {
     "name": "Northern Mariana Islands",
     "code": "MP",
     "phoneCode": "+1670",
-    "flagEmoji": "🇲🇵"
+    "flagEmoji": "🇲🇵",
+    "region": "Oceania",
+    "nativeName": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Norway",
     "code": "NO",
     "phoneCode": "+47",
-    "flagEmoji": "🇳🇴"
+    "flagEmoji": "🇳🇴",
+    "region": "Europe",
+    "nativeName": "Norge / Noreg",
+    "capital": "Oslo",
+    "currency": "NOK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Oman",
     "code": "OM",
     "phoneCode": "+968",
-    "flagEmoji": "🇴🇲"
+    "flagEmoji": "🇴🇲",
+    "region": "Asia",
+    "nativeName": "عمان",
+    "capital": "Muscat",
+    "currency": "OMR",
+    "currencySymbol": "ر.ع."
   },
   {
     "name": "Pakistan",
     "code": "PK",
     "phoneCode": "+92",
-    "flagEmoji": "🇵🇰"
+    "flagEmoji": "🇵🇰",
+    "region": "Asia",
+    "nativeName": "Pakistan",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "currencySymbol": "₨"
   },
   {
     "name": "Palau",
     "code": "PW",
     "phoneCode": "+680",
-    "flagEmoji": "🇵🇼"
+    "flagEmoji": "🇵🇼",
+    "region": "Oceania",
+    "nativeName": "Palau",
+    "capital": "Ngerulmud",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Palestinian Territory, Occupied",
     "code": "PS",
     "phoneCode": "+970",
-    "flagEmoji": "🇵🇸"
+    "flagEmoji": "🇵🇸",
+    "region": "Asia",
+    "nativeName": "فلسطين",
+    "capital": "Ramallah",
+    "currency": "ILS",
+    "currencySymbol": "₪"
   },
   {
     "name": "Panama",
     "code": "PA",
     "phoneCode": "+507",
-    "flagEmoji": "🇵🇦"
+    "flagEmoji": "🇵🇦",
+    "region": "North America",
+    "nativeName": "Panamá",
+    "capital": "Panama City",
+    "currency": "PAB",
+    "currencySymbol": "B/."
   },
   {
     "name": "Papua New Guinea",
     "code": "PG",
     "phoneCode": "+675",
-    "flagEmoji": "🇵🇬"
+    "flagEmoji": "🇵🇬",
+    "region": "Oceania",
+    "nativeName": "Papua Niugini",
+    "capital": "Port Moresby",
+    "currency": "PGK",
+    "currencySymbol": "K"
   },
   {
     "name": "Paraguay",
     "code": "PY",
     "phoneCode": "+595",
-    "flagEmoji": "🇵🇾"
+    "flagEmoji": "🇵🇾",
+    "region": "South America",
+    "nativeName": "Paraguay",
+    "capital": "Asunción",
+    "currency": "PYG",
+    "currencySymbol": "₲"
   },
   {
     "name": "Peru",
     "code": "PE",
     "phoneCode": "+51",
-    "flagEmoji": "🇵🇪"
+    "flagEmoji": "🇵🇪",
+    "region": "South America",
+    "nativeName": "Perú",
+    "capital": "Lima",
+    "currency": "PEN",
+    "currencySymbol": "S/."
   },
   {
     "name": "Philippines",
     "code": "PH",
     "phoneCode": "+63",
-    "flagEmoji": "🇵🇭"
+    "flagEmoji": "🇵🇭",
+    "region": "Asia",
+    "nativeName": "Pilipinas",
+    "capital": "Manila",
+    "currency": "PHP",
+    "currencySymbol": "₱"
   },
   {
     "name": "Pitcairn",
     "code": "PN",
     "phoneCode": "+872",
-    "flagEmoji": "🇵🇳"
+    "flagEmoji": "🇵🇳",
+    "region": "Oceania",
+    "nativeName": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "currency": "NZD",
+    "currencySymbol": "$"
   },
   {
     "name": "Poland",
     "code": "PL",
     "phoneCode": "+48",
-    "flagEmoji": "🇵🇱"
+    "flagEmoji": "🇵🇱",
+    "region": "Europe",
+    "nativeName": "Polska",
+    "capital": "Warsaw",
+    "currency": "PLN",
+    "currencySymbol": "zł"
   },
   {
     "name": "Portugal",
     "code": "PT",
     "phoneCode": "+351",
-    "flagEmoji": "🇵🇹"
+    "flagEmoji": "🇵🇹",
+    "region": "Europe",
+    "nativeName": "Portugal",
+    "capital": "Lisbon",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Puerto Rico",
     "code": "PR",
     "phoneCode": "+1939",
-    "flagEmoji": "🇵🇷"
+    "flagEmoji": "🇵🇷",
+    "region": "North America",
+    "nativeName": "Puerto Rico",
+    "capital": "San Juan",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Qatar",
     "code": "QA",
     "phoneCode": "+974",
-    "flagEmoji": "🇶🇦"
+    "flagEmoji": "🇶🇦",
+    "region": "Asia",
+    "nativeName": "قطر",
+    "capital": "Doha",
+    "currency": "QAR",
+    "currencySymbol": "ر.ق"
   },
   {
     "name": "Reunion",
     "code": "RE",
     "phoneCode": "+262",
-    "flagEmoji": "🇷🇪"
+    "flagEmoji": "🇷🇪",
+    "region": "Africa",
+    "nativeName": "La Réunion",
+    "capital": "Saint-Denis",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Romania",
     "code": "RO",
     "phoneCode": "+40",
-    "flagEmoji": "🇷🇴"
+    "flagEmoji": "🇷🇴",
+    "region": "Europe",
+    "nativeName": "România",
+    "capital": "Bucharest",
+    "currency": "RON",
+    "currencySymbol": "lei"
   },
   {
     "name": "Russia",
     "code": "RU",
     "phoneCode": "+7",
-    "flagEmoji": "🇷🇺"
+    "flagEmoji": "🇷🇺",
+    "region": "Europe/Asia",
+    "nativeName": "Россия",
+    "capital": "Moscow",
+    "currency": "RUB",
+    "currencySymbol": "₽"
   },
   {
     "name": "Rwanda",
     "code": "RW",
     "phoneCode": "+250",
-    "flagEmoji": "🇷🇼"
+    "flagEmoji": "🇷🇼",
+    "region": "Africa",
+    "nativeName": "Rwanda",
+    "capital": "Kigali",
+    "currency": "RWF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Saint Barthelemy",
     "code": "BL",
     "phoneCode": "+590",
-    "flagEmoji": "🇧🇱"
+    "flagEmoji": "🇧🇱",
+    "region": "North America",
+    "nativeName": "Saint-Barthélemy",
+    "capital": "Gustavia",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Saint Helena, Ascension and Tristan Da Cunha",
     "code": "SH",
     "phoneCode": "+290",
-    "flagEmoji": "🇸🇭"
+    "flagEmoji": "🇸🇭",
+    "region": "Africa",
+    "nativeName": "Saint Helena",
+    "capital": "Jamestown",
+    "currency": "SHP",
+    "currencySymbol": "£"
   },
   {
     "name": "Saint Kitts and Nevis",
     "code": "KN",
     "phoneCode": "+1869",
-    "flagEmoji": "🇰🇳"
+    "flagEmoji": "🇰🇳",
+    "region": "North America",
+    "nativeName": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Saint Lucia",
     "code": "LC",
     "phoneCode": "+1758",
-    "flagEmoji": "🇱🇨"
+    "flagEmoji": "🇱🇨",
+    "region": "North America",
+    "nativeName": "Saint Lucia",
+    "capital": "Castries",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Saint Martin",
     "code": "MF",
     "phoneCode": "+590",
-    "flagEmoji": "🇲🇫"
+    "flagEmoji": "🇲🇫",
+    "region": "North America",
+    "nativeName": "Saint-Martin",
+    "capital": "Marigot",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Saint Pierre and Miquelon",
     "code": "PM",
     "phoneCode": "+508",
-    "flagEmoji": "🇵🇲"
+    "flagEmoji": "🇵🇲",
+    "region": "North America",
+    "nativeName": "Saint-Pierre-et-Miquelon",
+    "capital": "Saint-Pierre",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Saint Vincent and the Grenadines",
     "code": "VC",
     "phoneCode": "+1784",
-    "flagEmoji": "🇻🇨"
+    "flagEmoji": "🇻🇨",
+    "region": "North America",
+    "nativeName": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "currency": "XCD",
+    "currencySymbol": "$"
   },
   {
     "name": "Samoa",
     "code": "WS",
     "phoneCode": "+685",
-    "flagEmoji": "🇼🇸"
+    "flagEmoji": "🇼🇸",
+    "region": "Oceania",
+    "nativeName": "Samoa",
+    "capital": "Apia",
+    "currency": "WST",
+    "currencySymbol": "T"
   },
   {
     "name": "San Marino",
     "code": "SM",
     "phoneCode": "+378",
-    "flagEmoji": "🇸🇲"
+    "flagEmoji": "🇸🇲",
+    "region": "Europe",
+    "nativeName": "San Marino",
+    "capital": "City of San Marino",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Sao Tome and Principe",
     "code": "ST",
     "phoneCode": "+239",
-    "flagEmoji": "🇸🇹"
+    "flagEmoji": "🇸🇹",
+    "region": "Africa",
+    "nativeName": "São Tomé e Príncipe",
+    "capital": "São Tomé",
+    "currency": "STD",
+    "currencySymbol": "Db"
   },
   {
     "name": "Saudi Arabia",
     "code": "SA",
     "phoneCode": "+966",
-    "flagEmoji": "🇸🇦"
+    "flagEmoji": "🇸🇦",
+    "region": "Asia",
+    "nativeName": "العربية السعودية",
+    "capital": "Riyadh",
+    "currency": "SAR",
+    "currencySymbol": "ر.س"
   },
   {
     "name": "Senegal",
     "code": "SN",
     "phoneCode": "+221",
-    "flagEmoji": "🇸🇳"
+    "flagEmoji": "🇸🇳",
+    "region": "Africa",
+    "nativeName": "Sénégal",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Serbia",
     "code": "RS",
     "phoneCode": "+381",
-    "flagEmoji": "🇷🇸"
+    "flagEmoji": "🇷🇸",
+    "region": "Europe",
+    "nativeName": "Србија",
+    "capital": "Belgrade",
+    "currency": "RSD",
+    "currencySymbol": "дин."
   },
   {
     "name": "Seychelles",
     "code": "SC",
     "phoneCode": "+248",
-    "flagEmoji": "🇸🇨"
+    "flagEmoji": "🇸🇨",
+    "region": "Africa",
+    "nativeName": "Seychelles",
+    "capital": "Victoria",
+    "currency": "SCR",
+    "currencySymbol": "₨"
   },
   {
     "name": "Sierra Leone",
     "code": "SL",
     "phoneCode": "+232",
-    "flagEmoji": "🇸🇱"
+    "flagEmoji": "🇸🇱",
+    "region": "Africa",
+    "nativeName": "Sierra Leone",
+    "capital": "Freetown",
+    "currency": "SLL",
+    "currencySymbol": "Le"
   },
   {
     "name": "Singapore",
     "code": "SG",
     "phoneCode": "+65",
-    "flagEmoji": "🇸🇬"
+    "flagEmoji": "🇸🇬",
+    "region": "Asia",
+    "nativeName": "Singapore / Singapura / 新加坡 / சிங்கப்பூர்",
+    "capital": "Singapore",
+    "currency": "SGD",
+    "currencySymbol": "$"
   },
   {
     "name": "Slovakia",
     "code": "SK",
     "phoneCode": "+421",
-    "flagEmoji": "🇸🇰"
+    "flagEmoji": "🇸🇰",
+    "region": "Europe",
+    "nativeName": "Slovensko",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Slovenia",
     "code": "SI",
     "phoneCode": "+386",
-    "flagEmoji": "🇸🇮"
+    "flagEmoji": "🇸🇮",
+    "region": "Europe",
+    "nativeName": "Slovenija",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Solomon Islands",
     "code": "SB",
     "phoneCode": "+677",
-    "flagEmoji": "🇸🇧"
+    "flagEmoji": "🇸🇧",
+    "region": "Oceania",
+    "nativeName": "Solomon Islands",
+    "capital": "Honiara",
+    "currency": "SBD",
+    "currencySymbol": "$"
   },
   {
     "name": "Somalia",
     "code": "SO",
     "phoneCode": "+252",
-    "flagEmoji": "🇸🇴"
+    "flagEmoji": "🇸🇴",
+    "region": "Africa",
+    "nativeName": "Soomaaliya",
+    "capital": "Mogadishu",
+    "currency": "SOS",
+    "currencySymbol": "Sh"
   },
   {
     "name": "South Africa",
     "code": "ZA",
     "phoneCode": "+27",
-    "flagEmoji": "🇿🇦"
+    "flagEmoji": "🇿🇦",
+    "region": "Africa",
+    "nativeName": "South Africa / Suid-Afrika / iNingizimu Afrika",
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "currencySymbol": "R"
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
     "code": "GS",
     "phoneCode": "+500",
-    "flagEmoji": "🇬🇸"
+    "flagEmoji": "🇬🇸",
+    "region": "Antarctica",
+    "nativeName": "South Georgia and the South Sandwich Islands",
+    "capital": "King Edward Point",
+    "currency": "GBP",
+    "currencySymbol": "£"
   },
   {
     "name": "South Sudan",
     "code": "SS",
     "phoneCode": "+211",
-    "flagEmoji": "🇸🇸"
+    "flagEmoji": "🇸🇸",
+    "region": "Africa",
+    "nativeName": "South Sudan",
+    "capital": "Juba",
+    "currency": "SSP",
+    "currencySymbol": "£"
   },
   {
     "name": "Spain",
     "code": "ES",
     "phoneCode": "+34",
-    "flagEmoji": "🇪🇸"
+    "flagEmoji": "🇪🇸",
+    "region": "Europe",
+    "nativeName": "España",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Sri Lanka",
     "code": "LK",
     "phoneCode": "+94",
-    "flagEmoji": "🇱🇰"
+    "flagEmoji": "🇱🇰",
+    "region": "Asia",
+    "nativeName": "śrī laṃkāva / இலங்கை",
+    "capital": "Sri Jayawardenepura Kotte",
+    "currency": "LKR",
+    "currencySymbol": "Rs"
   },
   {
     "name": "Sudan",
     "code": "SD",
     "phoneCode": "+249",
-    "flagEmoji": "🇸🇩"
+    "flagEmoji": "🇸🇩",
+    "region": "Africa",
+    "nativeName": "السودان",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currencySymbol": "ج.س."
   },
   {
     "name": "Suriname",
     "code": "SR",
     "phoneCode": "+597",
-    "flagEmoji": "🇸🇷"
+    "flagEmoji": "🇸🇷",
+    "region": "South America",
+    "nativeName": "Suriname",
+    "capital": "Paramaribo",
+    "currency": "SRD",
+    "currencySymbol": "$"
   },
   {
     "name": "Svalbard and Jan Mayen",
     "code": "SJ",
     "phoneCode": "+47",
-    "flagEmoji": "🇸🇯"
+    "flagEmoji": "🇸🇯",
+    "region": "Europe",
+    "nativeName": "Svalbard og Jan Mayen",
+    "capital": "Longyearbyen",
+    "currency": "NOK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Sweden",
     "code": "SE",
     "phoneCode": "+46",
-    "flagEmoji": "🇸🇪"
+    "flagEmoji": "🇸🇪",
+    "region": "Europe",
+    "nativeName": "Sverige",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Switzerland",
     "code": "CH",
     "phoneCode": "+41",
-    "flagEmoji": "🇨🇭"
+    "flagEmoji": "🇨🇭",
+    "region": "Europe",
+    "nativeName": "Schweiz / Suisse / Svizzera / Svizra",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Syrian Arab Republic",
     "code": "SY",
     "phoneCode": "+963",
-    "flagEmoji": "🇸🇾"
+    "flagEmoji": "🇸🇾",
+    "region": "Asia",
+    "nativeName": "سوريا",
+    "capital": "Damascus",
+    "currency": "SYP",
+    "currencySymbol": "£"
   },
   {
     "name": "Taiwan",
     "code": "TW",
     "phoneCode": "+886",
-    "flagEmoji": "🇹🇼"
+    "flagEmoji": "🇹🇼",
+    "region": "Asia",
+    "nativeName": "臺灣",
+    "capital": "Taipei",
+    "currency": "TWD",
+    "currencySymbol": "$"
   },
   {
     "name": "Tajikistan",
     "code": "TJ",
     "phoneCode": "+992",
-    "flagEmoji": "🇹🇯"
+    "flagEmoji": "🇹🇯",
+    "region": "Asia",
+    "nativeName": "Тоҷикистон",
+    "capital": "Dushanbe",
+    "currency": "TJS",
+    "currencySymbol": "ЅМ"
   },
   {
     "name": "Tanzania, United Republic of Tanzania",
     "code": "TZ",
     "phoneCode": "+255",
-    "flagEmoji": "🇹🇿"
+    "flagEmoji": "🇹🇿",
+    "region": "Africa",
+    "nativeName": "Tanzania",
+    "capital": "Dodoma",
+    "currency": "TZS",
+    "currencySymbol": "Sh"
   },
   {
     "name": "Thailand",
     "code": "TH",
     "phoneCode": "+66",
-    "flagEmoji": "🇹🇭"
+    "flagEmoji": "🇹🇭",
+    "region": "Asia",
+    "nativeName": "ประเทศไทย",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currencySymbol": "฿"
   },
   {
     "name": "Timor-Leste",
     "code": "TL",
     "phoneCode": "+670",
-    "flagEmoji": "🇹🇱"
+    "flagEmoji": "🇹🇱",
+    "region": "Asia",
+    "nativeName": "Timor-Leste",
+    "capital": "Dili",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Togo",
     "code": "TG",
     "phoneCode": "+228",
-    "flagEmoji": "🇹🇬"
+    "flagEmoji": "🇹🇬",
+    "region": "Africa",
+    "nativeName": "Togo",
+    "capital": "Lomé",
+    "currency": "XOF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Tokelau",
     "code": "TK",
     "phoneCode": "+690",
-    "flagEmoji": "🇹🇰"
+    "flagEmoji": "🇹🇰",
+    "region": "Oceania",
+    "nativeName": "Tokelau",
+    "capital": "Fakaofo",
+    "currency": "NZD",
+    "currencySymbol": "$"
   },
   {
     "name": "Tonga",
     "code": "TO",
     "phoneCode": "+676",
-    "flagEmoji": "🇹🇴"
+    "flagEmoji": "🇹🇴",
+    "region": "Oceania",
+    "nativeName": "Tonga",
+    "capital": "Nuku'alofa",
+    "currency": "TOP",
+    "currencySymbol": "T$"
   },
   {
     "name": "Trinidad and Tobago",
     "code": "TT",
     "phoneCode": "+1868",
-    "flagEmoji": "🇹🇹"
+    "flagEmoji": "🇹🇹",
+    "region": "North America",
+    "nativeName": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "currency": "TTD",
+    "currencySymbol": "$"
   },
   {
     "name": "Tunisia",
     "code": "TN",
     "phoneCode": "+216",
-    "flagEmoji": "🇹🇳"
+    "flagEmoji": "🇹🇳",
+    "region": "Africa",
+    "nativeName": "تونس",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currencySymbol": "د.ت"
   },
   {
     "name": "Turkey",
     "code": "TR",
     "phoneCode": "+90",
-    "flagEmoji": "🇹🇷"
+    "flagEmoji": "🇹🇷",
+    "region": "Asia/Europe",
+    "nativeName": "Türkiye",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currencySymbol": "₺"
   },
   {
     "name": "Turkmenistan",
     "code": "TM",
     "phoneCode": "+993",
-    "flagEmoji": "🇹🇲"
+    "flagEmoji": "🇹🇲",
+    "region": "Asia",
+    "nativeName": "Türkmenistan",
+    "capital": "Ashgabat",
+    "currency": "TMT",
+    "currencySymbol": "m"
   },
   {
     "name": "Turks and Caicos Islands",
     "code": "TC",
     "phoneCode": "+1649",
-    "flagEmoji": "🇹🇨"
+    "flagEmoji": "🇹🇨",
+    "region": "North America",
+    "nativeName": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Tuvalu",
     "code": "TV",
     "phoneCode": "+688",
-    "flagEmoji": "🇹🇻"
+    "flagEmoji": "🇹🇻",
+    "region": "Oceania",
+    "nativeName": "Tuvalu",
+    "capital": "Funafuti",
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Uganda",
     "code": "UG",
     "phoneCode": "+256",
-    "flagEmoji": "🇺🇬"
+    "flagEmoji": "🇺🇬",
+    "region": "Africa",
+    "nativeName": "Uganda",
+    "capital": "Kampala",
+    "currency": "UGX",
+    "currencySymbol": "Sh"
   },
   {
     "name": "Ukraine",
     "code": "UA",
     "phoneCode": "+380",
-    "flagEmoji": "🇺🇦"
+    "flagEmoji": "🇺🇦",
+    "region": "Europe",
+    "nativeName": "Україна",
+    "capital": "Kyiv",
+    "currency": "UAH",
+    "currencySymbol": "₴"
   },
   {
     "name": "United Arab Emirates",
     "code": "AE",
     "phoneCode": "+971",
-    "flagEmoji": "🇦🇪"
+    "flagEmoji": "🇦🇪",
+    "region": "Asia",
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "capital": "Abu Dhabi",
+    "currency": "AED",
+    "currencySymbol": "د.إ"
   },
   {
     "name": "United Kingdom",
     "code": "GB",
     "phoneCode": "+44",
-    "flagEmoji": "🇬🇧"
+    "flagEmoji": "🇬🇧",
+    "region": "Europe",
+    "nativeName": "United Kingdom",
+    "capital": "London",
+    "currency": "GBP",
+    "currencySymbol": "£"
   },
   {
     "name": "United States",
     "code": "US",
     "phoneCode": "+1",
-    "flagEmoji": "🇺🇸"
+    "flagEmoji": "🇺🇸",
+    "region": "North America",
+    "nativeName": "United States",
+    "capital": "Washington, D.C.",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Uruguay",
     "code": "UY",
     "phoneCode": "+598",
-    "flagEmoji": "🇺🇾"
+    "flagEmoji": "🇺🇾",
+    "region": "South America",
+    "nativeName": "Uruguay",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currencySymbol": "$"
   },
   {
     "name": "Uzbekistan",
     "code": "UZ",
     "phoneCode": "+998",
-    "flagEmoji": "🇺🇿"
+    "flagEmoji": "🇺🇿",
+    "region": "Asia",
+    "nativeName": "O‘zbekiston",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "currencySymbol": "so'm"
   },
   {
     "name": "Vanuatu",
     "code": "VU",
     "phoneCode": "+678",
-    "flagEmoji": "🇻🇺"
+    "flagEmoji": "🇻🇺",
+    "region": "Oceania",
+    "nativeName": "Vanuatu",
+    "capital": "Port Vila",
+    "currency": "VUV",
+    "currencySymbol": "Vt"
   },
   {
     "name": "Venezuela, Bolivarian Republic of Venezuela",
     "code": "VE",
     "phoneCode": "+58",
-    "flagEmoji": "🇻🇪"
+    "flagEmoji": "🇻🇪",
+    "region": "South America",
+    "nativeName": "Venezuela",
+    "capital": "Caracas",
+    "currency": "VES",
+    "currencySymbol": "Bs."
   },
   {
     "name": "Vietnam",
     "code": "VN",
     "phoneCode": "+84",
-    "flagEmoji": "🇻🇳"
+    "flagEmoji": "🇻🇳",
+    "region": "Asia",
+    "nativeName": "Việt Nam",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currencySymbol": "₫"
   },
   {
     "name": "Virgin Islands, British",
     "code": "VG",
     "phoneCode": "+1284",
-    "flagEmoji": "🇻🇬"
+    "flagEmoji": "🇻🇬",
+    "region": "North America",
+    "nativeName": "British Virgin Islands",
+    "capital": "Road Town",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Virgin Islands, U.S.",
     "code": "VI",
     "phoneCode": "+1340",
-    "flagEmoji": "🇻🇮"
+    "flagEmoji": "🇻🇮",
+    "region": "North America",
+    "nativeName": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Wallis and Futuna",
     "code": "WF",
     "phoneCode": "+681",
-    "flagEmoji": "🇼🇫"
+    "flagEmoji": "🇼🇫",
+    "region": "Oceania",
+    "nativeName": "Wallis et Futuna",
+    "capital": "Mata-Utu",
+    "currency": "XPF",
+    "currencySymbol": "Fr"
   },
   {
     "name": "Yemen",
     "code": "YE",
     "phoneCode": "+967",
-    "flagEmoji": "🇾🇪"
+    "flagEmoji": "🇾🇪",
+    "region": "Asia",
+    "nativeName": "اليمن",
+    "capital": "Sana'a",
+    "currency": "YER",
+    "currencySymbol": "﷼"
   },
   {
     "name": "Zambia",
     "code": "ZM",
     "phoneCode": "+260",
-    "flagEmoji": "🇿🇲"
+    "flagEmoji": "🇿🇲",
+    "region": "Africa",
+    "nativeName": "Zambia",
+    "capital": "Lusaka",
+    "currency": "ZMW",
+    "currencySymbol": "ZK"
   },
   {
     "name": "Zimbabwe",
     "code": "ZW",
     "phoneCode": "+263",
-    "flagEmoji": "🇿🇼"
+    "flagEmoji": "🇿🇼",
+    "region": "Africa",
+    "nativeName": "Zimbabwe",
+    "capital": "Harare",
+    "currency": "ZWL",
+    "currencySymbol": "$"
   },
   {
     "name": "Bonaire, Sint Eustatius and Saba",
     "code": "BQ",
     "phoneCode": "+599",
-    "flagEmoji": "🇧🇶"
+    "flagEmoji": "🇧🇶",
+    "region": "North America",
+    "nativeName": "Bonaire, Sint Eustatius en Saba",
+    "capital": "Kralendijk",
+    "currency": "USD",
+    "currencySymbol": "$"
   },
   {
     "name": "Bouvet Island",
     "code": "BV",
     "phoneCode": "+47",
-    "flagEmoji": "🇧🇻"
+    "flagEmoji": "🇧🇻",
+    "region": "Antarctica",
+    "nativeName": "Bouvetøya",
+    "capital": null,
+    "currency": "NOK",
+    "currencySymbol": "kr"
   },
   {
     "name": "Curaçao",
     "code": "CW",
     "phoneCode": "+599",
-    "flagEmoji": "🇨🇼"
+    "flagEmoji": "🇨🇼",
+    "region": "North America",
+    "nativeName": "Curaçao",
+    "capital": "Willemstad",
+    "currency": "ANG",
+    "currencySymbol": "ƒ"
   },
   {
     "name": "French Southern Territories",
     "code": "TF",
     "phoneCode": "+262",
-    "flagEmoji": "🇹🇫"
+    "flagEmoji": "🇹🇫",
+    "region": "Antarctica",
+    "nativeName": "Terres australes et antarctiques françaises",
+    "capital": "Port-aux-Français",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Heard Island and McDonald Islands",
     "code": "HM",
     "phoneCode": "+672",
-    "flagEmoji": "🇭🇲"
+    "flagEmoji": "🇭🇲",
+    "region": "Antarctica",
+    "nativeName": "Heard Island and McDonald Islands",
+    "capital": null,
+    "currency": "AUD",
+    "currencySymbol": "$"
   },
   {
     "name": "Kosovo",
     "code": "XK",
     "phoneCode": "+383",
-    "flagEmoji": "🇽🇰"
+    "flagEmoji": "🇽🇰",
+    "region": "Europe",
+    "nativeName": "Kosovë / Косово",
+    "capital": "Pristina",
+    "currency": "EUR",
+    "currencySymbol": "€"
   },
   {
     "name": "Sint Maarten (Dutch part)",
     "code": "SX",
     "phoneCode": "+1721",
-    "flagEmoji": "🇸🇽"
+    "flagEmoji": "🇸🇽",
+    "region": "North America",
+    "nativeName": "Sint Maarten",
+    "capital": "Philipsburg",
+    "currency": "ANG",
+    "currencySymbol": "ƒ"
   },
   {
     "name": "Western Sahara",
     "code": "EH",
     "phoneCode": "+212",
-    "flagEmoji": "🇪🇭"
+    "flagEmoji": "🇪🇭",
+    "region": "Africa",
+    "nativeName": "الصحراء الغربية",
+    "capital": "Laayoune / El Aaiún",
+    "currency": "MAD",
+    "currencySymbol": "د.م."
   }
 ]
