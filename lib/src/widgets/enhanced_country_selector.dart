@@ -21,7 +21,7 @@ class EnhancedCountrySelector extends StatefulWidget {
   final bool showPopularCountries;
 
   const EnhancedCountrySelector({
-    Key? key,
+    super.key,
     this.initialSelection,
     this.initialSelectionCode,
     this.onChanged,
@@ -37,7 +37,7 @@ class EnhancedCountrySelector extends StatefulWidget {
     this.enableSearch = true,
     this.showRegionHeaders = false,
     this.showPopularCountries = true,
-  }) : super(key: key);
+  });
 
   @override
   State<EnhancedCountrySelector> createState() => _EnhancedCountrySelectorState();
@@ -161,14 +161,13 @@ class _EnhancedCountryPickerBottomSheet extends StatefulWidget {
   final CountryDataManager countryDataManager;
 
   const _EnhancedCountryPickerBottomSheet({
-    Key? key,
     required this.countries,
     this.selectedCountry,
     required this.enableSearch,
     required this.showRegionHeaders,
     required this.showPopularCountries,
     required this.countryDataManager,
-  }) : super(key: key);
+  });
 
   @override
   State<_EnhancedCountryPickerBottomSheet> createState() => _EnhancedCountryPickerBottomSheetState();

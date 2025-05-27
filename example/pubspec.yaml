@@ -1,6 +1,7 @@
 name: country_picker_flutter_plus_example
 description: Example app for the country_picker_flutter_plus package.
 version: 1.0.0+1
+publish_to: none
 
 environment:
   sdk: ^3.7.2
@@ -10,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   country_picker_flutter_plus:
-    path: ../
+    path: ..
 
 dev_dependencies:
   flutter_test:
