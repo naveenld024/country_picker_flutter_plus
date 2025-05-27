@@ -1,10 +1,10 @@
 name: country_picker_flutter_plus
 description: "Enhanced Flutter country picker with advanced search, regional grouping, and extensive customization options."
 version: 1.0.0
-homepage: https://github.com/yourusername/country_picker_flutter_plus
-repository: https://github.com/yourusername/country_picker_flutter_plus
-issue_tracker: https://github.com/yourusername/country_picker_flutter_plus/issues
-documentation: https://github.com/yourusername/country_picker_flutter_plus#readme
+homepage: https://github.com/naveenld024/country_picker_flutter_plus
+repository: https://github.com/naveenld024/country_picker_flutter_plus
+issue_tracker: https://github.com/naveenld024/country_picker_flutter_plus/issues
+documentation: https://github.com/naveenld024/country_picker_flutter_plus#readme
 
 environment:
   sdk: ^3.7.2
